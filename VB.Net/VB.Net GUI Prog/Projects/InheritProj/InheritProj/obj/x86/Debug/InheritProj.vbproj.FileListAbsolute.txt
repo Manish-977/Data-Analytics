@@ -1,0 +1,8 @@
+C:\Users\anant\AppData\Local\Temporary Projects\InheritProj\bin\Debug\InheritProj.exe
+C:\Users\anant\AppData\Local\Temporary Projects\InheritProj\bin\Debug\InheritProj.pdb
+C:\Users\anant\AppData\Local\Temporary Projects\InheritProj\bin\Debug\InheritProj.xml
+C:\Users\anant\AppData\Local\Temporary Projects\InheritProj\obj\x86\Debug\InheritProj.Resources.resources
+C:\Users\anant\AppData\Local\Temporary Projects\InheritProj\obj\x86\Debug\InheritProj.vbproj.GenerateResource.Cache
+C:\Users\anant\AppData\Local\Temporary Projects\InheritProj\obj\x86\Debug\InheritProj.exe
+C:\Users\anant\AppData\Local\Temporary Projects\InheritProj\obj\x86\Debug\InheritProj.xml
+C:\Users\anant\AppData\Local\Temporary Projects\InheritProj\obj\x86\Debug\InheritProj.pdb

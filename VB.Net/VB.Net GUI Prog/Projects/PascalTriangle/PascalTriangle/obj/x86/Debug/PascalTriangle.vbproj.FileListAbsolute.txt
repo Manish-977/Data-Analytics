@@ -1,0 +1,8 @@
+C:\Users\anant\documents\visual studio 2010\Projects\PascalTriangle\PascalTriangle\bin\Debug\PascalTriangle.exe
+C:\Users\anant\documents\visual studio 2010\Projects\PascalTriangle\PascalTriangle\bin\Debug\PascalTriangle.pdb
+C:\Users\anant\documents\visual studio 2010\Projects\PascalTriangle\PascalTriangle\bin\Debug\PascalTriangle.xml
+C:\Users\anant\documents\visual studio 2010\Projects\PascalTriangle\PascalTriangle\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\anant\documents\visual studio 2010\Projects\PascalTriangle\PascalTriangle\obj\x86\Debug\PascalTriangle.vbproj.GenerateResource.Cache
+C:\Users\anant\documents\visual studio 2010\Projects\PascalTriangle\PascalTriangle\obj\x86\Debug\PascalTriangle.exe
+C:\Users\anant\documents\visual studio 2010\Projects\PascalTriangle\PascalTriangle\obj\x86\Debug\PascalTriangle.xml
+C:\Users\anant\documents\visual studio 2010\Projects\PascalTriangle\PascalTriangle\obj\x86\Debug\PascalTriangle.pdb

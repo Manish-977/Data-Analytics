@@ -1,0 +1,10 @@
+C:\Users\anant\AppData\Local\Temporary Projects\DataProj\bin\Debug\DataProj.exe.config
+C:\Users\anant\AppData\Local\Temporary Projects\DataProj\bin\Debug\DataProj.exe
+C:\Users\anant\AppData\Local\Temporary Projects\DataProj\bin\Debug\DataProj.pdb
+C:\Users\anant\AppData\Local\Temporary Projects\DataProj\bin\Debug\DataProj.xml
+C:\Users\anant\AppData\Local\Temporary Projects\DataProj\obj\x86\Debug\DataProj.Form1.resources
+C:\Users\anant\AppData\Local\Temporary Projects\DataProj\obj\x86\Debug\DataProj.Resources.resources
+C:\Users\anant\AppData\Local\Temporary Projects\DataProj\obj\x86\Debug\DataProj.vbproj.GenerateResource.Cache
+C:\Users\anant\AppData\Local\Temporary Projects\DataProj\obj\x86\Debug\DataProj.exe
+C:\Users\anant\AppData\Local\Temporary Projects\DataProj\obj\x86\Debug\DataProj.xml
+C:\Users\anant\AppData\Local\Temporary Projects\DataProj\obj\x86\Debug\DataProj.pdb

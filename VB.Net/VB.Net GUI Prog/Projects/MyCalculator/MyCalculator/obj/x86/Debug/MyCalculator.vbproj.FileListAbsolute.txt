@@ -1,0 +1,12 @@
+C:\Users\anant\OneDrive\Documents\Visual Studio 2010\Projects\MyCalculator\MyCalculator\bin\Debug\MyCalculator.exe
+C:\Users\anant\OneDrive\Documents\Visual Studio 2010\Projects\MyCalculator\MyCalculator\bin\Debug\MyCalculator.pdb
+C:\Users\anant\OneDrive\Documents\Visual Studio 2010\Projects\MyCalculator\MyCalculator\bin\Debug\MyCalculator.xml
+C:\Users\anant\OneDrive\Documents\Visual Studio 2010\Projects\MyCalculator\MyCalculator\obj\x86\Debug\MyCalculator.Form1.resources
+C:\Users\anant\OneDrive\Documents\Visual Studio 2010\Projects\MyCalculator\MyCalculator\obj\x86\Debug\MyCalculator.Resources.resources
+C:\Users\anant\OneDrive\Documents\Visual Studio 2010\Projects\MyCalculator\MyCalculator\obj\x86\Debug\MyCalculator.vbproj.GenerateResource.Cache
+C:\Users\anant\OneDrive\Documents\Visual Studio 2010\Projects\MyCalculator\MyCalculator\obj\x86\Debug\MyCalculator.exe
+C:\Users\anant\OneDrive\Documents\Visual Studio 2010\Projects\MyCalculator\MyCalculator\obj\x86\Debug\MyCalculator.xml
+C:\Users\anant\OneDrive\Documents\Visual Studio 2010\Projects\MyCalculator\MyCalculator\obj\x86\Debug\MyCalculator.pdb
+H:\VB.Net\VB.Net GUI Prog\Projects\MyCalculator\MyCalculator\obj\x86\Debug\MyCalculator.exe
+H:\VB.Net\VB.Net GUI Prog\Projects\MyCalculator\MyCalculator\obj\x86\Debug\MyCalculator.xml
+H:\VB.Net\VB.Net GUI Prog\Projects\MyCalculator\MyCalculator\obj\x86\Debug\MyCalculator.pdb

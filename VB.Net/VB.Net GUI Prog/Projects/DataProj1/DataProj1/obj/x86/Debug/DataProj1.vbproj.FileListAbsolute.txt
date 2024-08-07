@@ -1,0 +1,10 @@
+C:\Users\anant\OneDrive\Documents\Visual Studio 2010\Projects\DataProj1\DataProj1\bin\Debug\DataProj1.exe.config
+C:\Users\anant\OneDrive\Documents\Visual Studio 2010\Projects\DataProj1\DataProj1\bin\Debug\DataProj1.exe
+C:\Users\anant\OneDrive\Documents\Visual Studio 2010\Projects\DataProj1\DataProj1\bin\Debug\DataProj1.pdb
+C:\Users\anant\OneDrive\Documents\Visual Studio 2010\Projects\DataProj1\DataProj1\bin\Debug\DataProj1.xml
+C:\Users\anant\OneDrive\Documents\Visual Studio 2010\Projects\DataProj1\DataProj1\obj\x86\Debug\DataProj.Form1.resources
+C:\Users\anant\OneDrive\Documents\Visual Studio 2010\Projects\DataProj1\DataProj1\obj\x86\Debug\DataProj.Resources.resources
+C:\Users\anant\OneDrive\Documents\Visual Studio 2010\Projects\DataProj1\DataProj1\obj\x86\Debug\DataProj1.vbproj.GenerateResource.Cache
+C:\Users\anant\OneDrive\Documents\Visual Studio 2010\Projects\DataProj1\DataProj1\obj\x86\Debug\DataProj1.exe
+C:\Users\anant\OneDrive\Documents\Visual Studio 2010\Projects\DataProj1\DataProj1\obj\x86\Debug\DataProj1.xml
+C:\Users\anant\OneDrive\Documents\Visual Studio 2010\Projects\DataProj1\DataProj1\obj\x86\Debug\DataProj1.pdb

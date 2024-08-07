@@ -1,0 +1,30 @@
+C:\Users\anant\AppData\Local\Temporary Projects\MyNotepad\bin\Debug\MyNotepad.exe
+C:\Users\anant\AppData\Local\Temporary Projects\MyNotepad\bin\Debug\MyNotepad.pdb
+C:\Users\anant\AppData\Local\Temporary Projects\MyNotepad\bin\Debug\MyNotepad.xml
+C:\Users\anant\AppData\Local\Temporary Projects\MyNotepad\obj\x86\Debug\MyNotepad.Form1.resources
+C:\Users\anant\AppData\Local\Temporary Projects\MyNotepad\obj\x86\Debug\MyNotepad.Resources.resources
+C:\Users\anant\AppData\Local\Temporary Projects\MyNotepad\obj\x86\Debug\MyNotepad.vbproj.GenerateResource.Cache
+C:\Users\anant\AppData\Local\Temporary Projects\MyNotepad\obj\x86\Debug\MyNotepad.exe
+C:\Users\anant\AppData\Local\Temporary Projects\MyNotepad\obj\x86\Debug\MyNotepad.xml
+C:\Users\anant\AppData\Local\Temporary Projects\MyNotepad\obj\x86\Debug\MyNotepad.pdb
+C:\Users\anant\AppData\Local\Temporary Projects\MyNotepad\obj\x86\Debug\MyNotepad.Form2.resources
+C:\Users\anant\OneDrive\Documents\Visual Studio 2010\Projects\MyNotepad\MyNotepad\obj\x86\Debug\MyNotepad.exe
+C:\Users\anant\OneDrive\Documents\Visual Studio 2010\Projects\MyNotepad\MyNotepad\obj\x86\Debug\MyNotepad.xml
+C:\Users\anant\OneDrive\Documents\Visual Studio 2010\Projects\MyNotepad\MyNotepad\obj\x86\Debug\MyNotepad.pdb
+C:\Users\anant\OneDrive\Documents\Visual Studio 2010\Projects\MyNotepad\MyNotepad\obj\x86\Debug\MyNotepad.Form1.resources
+C:\Users\anant\OneDrive\Documents\Visual Studio 2010\Projects\MyNotepad\MyNotepad\obj\x86\Debug\MyNotepad.Form2.resources
+C:\Users\anant\OneDrive\Documents\Visual Studio 2010\Projects\MyNotepad\MyNotepad\obj\x86\Debug\MyNotepad.Resources.resources
+C:\Users\anant\OneDrive\Documents\Visual Studio 2010\Projects\MyNotepad\MyNotepad\obj\x86\Debug\MyNotepad.vbproj.GenerateResource.Cache
+C:\Users\anant\OneDrive\Documents\Visual Studio 2010\Projects\MyNotepad\MyNotepad\bin\Debug\MyNotepad.exe
+C:\Users\anant\OneDrive\Documents\Visual Studio 2010\Projects\MyNotepad\MyNotepad\bin\Debug\MyNotepad.pdb
+C:\Users\anant\OneDrive\Documents\Visual Studio 2010\Projects\MyNotepad\MyNotepad\bin\Debug\MyNotepad.xml
+H:\VB.Net\VB.Net GUI Prog\Projects\MyNotepad\MyNotepad\obj\x86\Debug\MyNotepad.exe
+H:\VB.Net\VB.Net GUI Prog\Projects\MyNotepad\MyNotepad\obj\x86\Debug\MyNotepad.xml
+H:\VB.Net\VB.Net GUI Prog\Projects\MyNotepad\MyNotepad\obj\x86\Debug\MyNotepad.pdb
+H:\VB.Net\VB.Net GUI Prog\Projects\MyNotepad\MyNotepad\bin\Debug\MyNotepad.exe
+H:\VB.Net\VB.Net GUI Prog\Projects\MyNotepad\MyNotepad\bin\Debug\MyNotepad.pdb
+H:\VB.Net\VB.Net GUI Prog\Projects\MyNotepad\MyNotepad\bin\Debug\MyNotepad.xml
+H:\VB.Net\VB.Net GUI Prog\Projects\MyNotepad\MyNotepad\obj\x86\Debug\MyNotepad.Form1.resources
+H:\VB.Net\VB.Net GUI Prog\Projects\MyNotepad\MyNotepad\obj\x86\Debug\MyNotepad.Form2.resources
+H:\VB.Net\VB.Net GUI Prog\Projects\MyNotepad\MyNotepad\obj\x86\Debug\MyNotepad.Resources.resources
+H:\VB.Net\VB.Net GUI Prog\Projects\MyNotepad\MyNotepad\obj\x86\Debug\MyNotepad.vbproj.GenerateResource.Cache

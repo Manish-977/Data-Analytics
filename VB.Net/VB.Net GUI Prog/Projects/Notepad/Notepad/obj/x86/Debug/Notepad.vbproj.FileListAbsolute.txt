@@ -1,0 +1,20 @@
+C:\Users\anant\AppData\Local\Temporary Projects\Notepad\bin\Debug\Notepad.exe
+C:\Users\anant\AppData\Local\Temporary Projects\Notepad\bin\Debug\Notepad.pdb
+C:\Users\anant\AppData\Local\Temporary Projects\Notepad\bin\Debug\Notepad.xml
+C:\Users\anant\AppData\Local\Temporary Projects\Notepad\obj\x86\Debug\Notepad.Resources.resources
+C:\Users\anant\AppData\Local\Temporary Projects\Notepad\obj\x86\Debug\Notepad.NotepadPForm.resources
+C:\Users\anant\AppData\Local\Temporary Projects\Notepad\obj\x86\Debug\Notepad.vbproj.GenerateResource.Cache
+C:\Users\anant\AppData\Local\Temporary Projects\Notepad\obj\x86\Debug\Notepad.exe
+C:\Users\anant\AppData\Local\Temporary Projects\Notepad\obj\x86\Debug\Notepad.xml
+C:\Users\anant\AppData\Local\Temporary Projects\Notepad\obj\x86\Debug\Notepad.pdb
+C:\Users\anant\AppData\Local\Temporary Projects\Notepad\obj\x86\Debug\Notepad.Form1.resources
+C:\Users\anant\OneDrive\Documents\Visual Studio 2010\Projects\Notepad\Notepad\obj\x86\Debug\Notepad.exe
+C:\Users\anant\OneDrive\Documents\Visual Studio 2010\Projects\Notepad\Notepad\obj\x86\Debug\Notepad.xml
+C:\Users\anant\OneDrive\Documents\Visual Studio 2010\Projects\Notepad\Notepad\obj\x86\Debug\Notepad.pdb
+C:\Users\anant\OneDrive\Documents\Visual Studio 2010\Projects\Notepad\Notepad\bin\Debug\Notepad.exe
+C:\Users\anant\OneDrive\Documents\Visual Studio 2010\Projects\Notepad\Notepad\bin\Debug\Notepad.pdb
+C:\Users\anant\OneDrive\Documents\Visual Studio 2010\Projects\Notepad\Notepad\bin\Debug\Notepad.xml
+C:\Users\anant\OneDrive\Documents\Visual Studio 2010\Projects\Notepad\Notepad\obj\x86\Debug\Notepad.Form1.resources
+C:\Users\anant\OneDrive\Documents\Visual Studio 2010\Projects\Notepad\Notepad\obj\x86\Debug\Notepad.Resources.resources
+C:\Users\anant\OneDrive\Documents\Visual Studio 2010\Projects\Notepad\Notepad\obj\x86\Debug\Notepad.NotepadPForm.resources
+C:\Users\anant\OneDrive\Documents\Visual Studio 2010\Projects\Notepad\Notepad\obj\x86\Debug\Notepad.vbproj.GenerateResource.Cache

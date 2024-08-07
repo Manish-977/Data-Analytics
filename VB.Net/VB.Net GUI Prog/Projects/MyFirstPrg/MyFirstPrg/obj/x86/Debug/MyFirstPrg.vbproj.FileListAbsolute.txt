@@ -1,0 +1,9 @@
+C:\Users\anant\AppData\Local\Temporary Projects\MyFirstPrg\bin\Debug\MyFirstPrg.exe
+C:\Users\anant\AppData\Local\Temporary Projects\MyFirstPrg\bin\Debug\MyFirstPrg.pdb
+C:\Users\anant\AppData\Local\Temporary Projects\MyFirstPrg\bin\Debug\MyFirstPrg.xml
+C:\Users\anant\AppData\Local\Temporary Projects\MyFirstPrg\obj\x86\Debug\MyFirstPrg.Form1.resources
+C:\Users\anant\AppData\Local\Temporary Projects\MyFirstPrg\obj\x86\Debug\MyFirstPrg.Resources.resources
+C:\Users\anant\AppData\Local\Temporary Projects\MyFirstPrg\obj\x86\Debug\MyFirstPrg.vbproj.GenerateResource.Cache
+C:\Users\anant\AppData\Local\Temporary Projects\MyFirstPrg\obj\x86\Debug\MyFirstPrg.exe
+C:\Users\anant\AppData\Local\Temporary Projects\MyFirstPrg\obj\x86\Debug\MyFirstPrg.xml
+C:\Users\anant\AppData\Local\Temporary Projects\MyFirstPrg\obj\x86\Debug\MyFirstPrg.pdb

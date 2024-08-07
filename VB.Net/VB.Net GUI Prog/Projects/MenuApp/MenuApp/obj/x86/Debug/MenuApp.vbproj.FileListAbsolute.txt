@@ -1,0 +1,13 @@
+C:\Users\anant\AppData\Local\Temporary Projects\MenuApp\bin\Debug\MenuApp.exe
+C:\Users\anant\AppData\Local\Temporary Projects\MenuApp\bin\Debug\MenuApp.pdb
+C:\Users\anant\AppData\Local\Temporary Projects\MenuApp\bin\Debug\MenuApp.xml
+C:\Users\anant\AppData\Local\Temporary Projects\MenuApp\obj\x86\Debug\MenuApp.Form1.resources
+C:\Users\anant\AppData\Local\Temporary Projects\MenuApp\obj\x86\Debug\MenuApp.Resources.resources
+C:\Users\anant\AppData\Local\Temporary Projects\MenuApp\obj\x86\Debug\MenuApp.vbproj.GenerateResource.Cache
+C:\Users\anant\AppData\Local\Temporary Projects\MenuApp\obj\x86\Debug\MenuApp.exe
+C:\Users\anant\AppData\Local\Temporary Projects\MenuApp\obj\x86\Debug\MenuApp.xml
+C:\Users\anant\AppData\Local\Temporary Projects\MenuApp\obj\x86\Debug\MenuApp.pdb
+C:\Users\anant\AppData\Local\Temporary Projects\MenuApp\obj\x86\Debug\MenuApp.Form2.resources
+C:\Users\anant\OneDrive\Documents\Visual Studio 2010\Projects\MenuApp\MenuApp\obj\x86\Debug\MenuApp.exe
+C:\Users\anant\OneDrive\Documents\Visual Studio 2010\Projects\MenuApp\MenuApp\obj\x86\Debug\MenuApp.xml
+C:\Users\anant\OneDrive\Documents\Visual Studio 2010\Projects\MenuApp\MenuApp\obj\x86\Debug\MenuApp.pdb

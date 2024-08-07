@@ -1,0 +1,8 @@
+C:\Users\anant\AppData\Local\Temporary Projects\maxtwo\bin\Debug\maxtwo.exe
+C:\Users\anant\AppData\Local\Temporary Projects\maxtwo\bin\Debug\maxtwo.pdb
+C:\Users\anant\AppData\Local\Temporary Projects\maxtwo\bin\Debug\maxtwo.xml
+C:\Users\anant\AppData\Local\Temporary Projects\maxtwo\obj\x86\Debug\maxtwo.Resources.resources
+C:\Users\anant\AppData\Local\Temporary Projects\maxtwo\obj\x86\Debug\maxtwo.vbproj.GenerateResource.Cache
+C:\Users\anant\AppData\Local\Temporary Projects\maxtwo\obj\x86\Debug\maxtwo.exe
+C:\Users\anant\AppData\Local\Temporary Projects\maxtwo\obj\x86\Debug\maxtwo.xml
+C:\Users\anant\AppData\Local\Temporary Projects\maxtwo\obj\x86\Debug\maxtwo.pdb

@@ -1,0 +1,8 @@
+C:\Users\anant\AppData\Local\Temporary Projects\Stugrade\bin\Debug\Stugrade.exe
+C:\Users\anant\AppData\Local\Temporary Projects\Stugrade\bin\Debug\Stugrade.pdb
+C:\Users\anant\AppData\Local\Temporary Projects\Stugrade\bin\Debug\Stugrade.xml
+C:\Users\anant\AppData\Local\Temporary Projects\Stugrade\obj\x86\Debug\Stugrade.Resources.resources
+C:\Users\anant\AppData\Local\Temporary Projects\Stugrade\obj\x86\Debug\Stugrade.vbproj.GenerateResource.Cache
+C:\Users\anant\AppData\Local\Temporary Projects\Stugrade\obj\x86\Debug\Stugrade.exe
+C:\Users\anant\AppData\Local\Temporary Projects\Stugrade\obj\x86\Debug\Stugrade.xml
+C:\Users\anant\AppData\Local\Temporary Projects\Stugrade\obj\x86\Debug\Stugrade.pdb

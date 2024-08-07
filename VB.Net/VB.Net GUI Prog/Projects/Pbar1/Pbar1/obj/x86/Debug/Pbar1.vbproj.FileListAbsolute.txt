@@ -1,0 +1,10 @@
+C:\Users\anant\OneDrive\Documents\Visual Studio 2010\Projects\Pbar1\Pbar1\bin\Debug\Pbar1.exe
+C:\Users\anant\OneDrive\Documents\Visual Studio 2010\Projects\Pbar1\Pbar1\bin\Debug\Pbar1.pdb
+C:\Users\anant\OneDrive\Documents\Visual Studio 2010\Projects\Pbar1\Pbar1\bin\Debug\Pbar1.xml
+C:\Users\anant\OneDrive\Documents\Visual Studio 2010\Projects\Pbar1\Pbar1\obj\x86\Debug\Pbar.Form1.resources
+C:\Users\anant\OneDrive\Documents\Visual Studio 2010\Projects\Pbar1\Pbar1\obj\x86\Debug\Pbar.Form2.resources
+C:\Users\anant\OneDrive\Documents\Visual Studio 2010\Projects\Pbar1\Pbar1\obj\x86\Debug\Pbar.Resources.resources
+C:\Users\anant\OneDrive\Documents\Visual Studio 2010\Projects\Pbar1\Pbar1\obj\x86\Debug\Pbar1.vbproj.GenerateResource.Cache
+C:\Users\anant\OneDrive\Documents\Visual Studio 2010\Projects\Pbar1\Pbar1\obj\x86\Debug\Pbar1.exe
+C:\Users\anant\OneDrive\Documents\Visual Studio 2010\Projects\Pbar1\Pbar1\obj\x86\Debug\Pbar1.xml
+C:\Users\anant\OneDrive\Documents\Visual Studio 2010\Projects\Pbar1\Pbar1\obj\x86\Debug\Pbar1.pdb

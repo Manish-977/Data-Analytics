@@ -1,0 +1,9 @@
+C:\Users\anant\AppData\Local\Temporary Projects\WinProg2\bin\Debug\WinProg2.exe
+C:\Users\anant\AppData\Local\Temporary Projects\WinProg2\bin\Debug\WinProg2.pdb
+C:\Users\anant\AppData\Local\Temporary Projects\WinProg2\bin\Debug\WinProg2.xml
+C:\Users\anant\AppData\Local\Temporary Projects\WinProg2\obj\x86\Debug\WinProg2.Form1.resources
+C:\Users\anant\AppData\Local\Temporary Projects\WinProg2\obj\x86\Debug\WinProg2.Resources.resources
+C:\Users\anant\AppData\Local\Temporary Projects\WinProg2\obj\x86\Debug\WinProg2.vbproj.GenerateResource.Cache
+C:\Users\anant\AppData\Local\Temporary Projects\WinProg2\obj\x86\Debug\WinProg2.exe
+C:\Users\anant\AppData\Local\Temporary Projects\WinProg2\obj\x86\Debug\WinProg2.xml
+C:\Users\anant\AppData\Local\Temporary Projects\WinProg2\obj\x86\Debug\WinProg2.pdb

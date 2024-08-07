@@ -1,0 +1,8 @@
+C:\Users\anant\AppData\Local\Temporary Projects\Selcase\bin\Debug\Selcase.exe
+C:\Users\anant\AppData\Local\Temporary Projects\Selcase\bin\Debug\Selcase.pdb
+C:\Users\anant\AppData\Local\Temporary Projects\Selcase\bin\Debug\Selcase.xml
+C:\Users\anant\AppData\Local\Temporary Projects\Selcase\obj\x86\Debug\Selcase.Resources.resources
+C:\Users\anant\AppData\Local\Temporary Projects\Selcase\obj\x86\Debug\Selcase.vbproj.GenerateResource.Cache
+C:\Users\anant\AppData\Local\Temporary Projects\Selcase\obj\x86\Debug\Selcase.exe
+C:\Users\anant\AppData\Local\Temporary Projects\Selcase\obj\x86\Debug\Selcase.xml
+C:\Users\anant\AppData\Local\Temporary Projects\Selcase\obj\x86\Debug\Selcase.pdb
